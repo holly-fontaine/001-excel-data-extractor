@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# source data
+source.xlsm
+
+# generated output
+vocab.json
+
+# Mac system files
+.DS_Store
+
+# Excel Temporary Files
+~$*.xlsm
