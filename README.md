@@ -21,6 +21,7 @@ The goal was to take data stored inside an Excel-based learning tool and transfo
 Excel data:
 
 | Definition | Entry |
+
 | Hello | "سلام" |
 
 JSON output:
